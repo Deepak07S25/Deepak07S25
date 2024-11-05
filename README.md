@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a backend developer skilled in JavaScript, Node.js, Express.js, and MongoDB. I build robust and scalable web applications, focusing on crafting efficient server-side solutions and seamless API integrations. Currently exploring new tech, refining my skills, and creating projects that combine simplicity with functionality.
+
 <!--
 **Deepak07S25/Deepak07S25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
